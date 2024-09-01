@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivansh137
-- 👀 I’m interested in mern stack developement
-- 🌱 I’m currently learning full stack MERN development
+- 👀 MERN Stack developer
+- 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shivanshagrawal137@gmail.com
 
