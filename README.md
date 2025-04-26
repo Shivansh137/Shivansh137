@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Shivansh137
 - 👀 MERN Stack developer
-- 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shivanshagrawal137@gmail.com
 
 <!---
